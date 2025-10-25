@@ -4,7 +4,7 @@ Unified Workspace Updater was created to  simplify updating server files. You ca
 
 
 
-[![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](#)  [![Made by Nanoworks Group](https://img.shields.io/badge/made%20by-Nanoworks%20Group-orange)](#)[![Project Status](https://img.shields.io/badge/status-active-brightgreen)](#) 
+[![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](#)  [![Made by Nanoworks Group](https://img.shields.io/badge/made%20by-Nanoworks%20Group-orange)](#) [![Project Status](https://img.shields.io/badge/status-active-brightgreen)](#) 
 
 
 ## Authors
